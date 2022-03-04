@@ -12,7 +12,7 @@
   "description": "Shellrunner Telegram bot",
   "homepage": "https://github.com/botgram/shell-bot",
   "dependencies": {
-    "botgram": "^2.2",
+    "botgram": "2.2.0",
     "escape-html": "1",
     "mime": "1",
     "node-pty": "^0.9.0",
