@@ -7,7 +7,7 @@
     "bot",
     "shell",
     "terminal",
-    "botgram"
+    "https://github.com/botgram/botgram/archive/refs/heads/master.zip"
   ],
   "description": "Shellrunner Telegram bot",
   "homepage": "https://github.com/botgram/shell-bot",
